@@ -24,7 +24,7 @@ jobs:
         uses: ServiceNow/sncicd-apply-changes@2.0.0
         env:
           nowUsername: admin
-          nowPassword: abcd
+          nowPassword: abcd1234
           nowSourceInstance: https://dev61618.service-now.com
           appSysID: 79439baf2f90611084f7f5ecf699b646
 
